@@ -31,4 +31,4 @@ This project is a Filipino trivia game developed using Java AWT. The game tests 
 ## How to Run the Application
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/JavaAWTProject.git
+[   git clone https://github.com/yourusername/JavaAWTProject.git](https://github.com/NMRBerse/DCIT-23---Computer-Programming-2-Java-GUI-Final-Project-AWT-Only-.git)
